@@ -1,2 +1,2 @@
 # april-exp
-Experimental on artifical primitive ntelligence (APRIL)
+Experimental on artifical primitive intelligence (APRIL)
